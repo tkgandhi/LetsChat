@@ -1,0 +1,57 @@
+.header img {
+    width: 80px;
+    margin-left: -15px;
+}
+
+body {
+    background: rgb(98, 167, 224);
+}
+
+.input_div_message_page {
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    background: rgba(255, 255, 255, 0.8);
+}
+
+#output {
+    padding: 10px;
+    width: 80%;
+    background: rgba(255, 255, 255, 0.8);
+    border-radius: 15px;
+}
+
+#logout {
+    font-size: 20px;
+    float: right;
+    margin-top: 15px;
+}
+
+.header {
+    color: white;
+    font-family: 'Comfortaa';
+    font-size: 40px;
+    letter-spacing: 10px;
+    margin-top: 80px;
+}
+
+.user_tick {
+    width: 20px;
+}
+
+.input_div_message_page #msg {
+    width: 80%;
+    font-family: 'Comfortaa';
+}
+
+
+.input_div_message_page label {
+    color: black;
+    font-family: 'Comfortaa';
+}
+
+.input_div_message_page button {
+    margin-top: 15px;
+    width: 50%;
+    font-family: 'Comfortaa';
+}
